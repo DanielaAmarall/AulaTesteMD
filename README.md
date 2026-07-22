@@ -1,10 +1,10 @@
-# Introduçao de  linguagem de marcação (MD)
+# Introdução de  linguagem de marcação (MD)
 ## 2 semestre 2026 - Dev A
 ### Inicio com Markdown
 
 Vamos iniciar falando de hierarquia e estilos simples.
 
-Exemplo de uso da estilização em negrito **palavra**, utilizada-se **
+Exemplo de uso da estilização em negrito: **palavra**, utiliza-se **
 
 Exemplo de uso da estilização em itálico: *palavra*, utiliza-se *
 
@@ -31,8 +31,12 @@ Exemplo de trecho de código:
 function Boas Vindas (nome) {
   console.log(`Olá!`) }
 ```
-Exemplo de tabelas 
+Exemplo de tabelas: 
+
 | Recurso  | Suporte | Status |
 | :---  | :--- | :---|
 | HTML | SIM | ATIVO |
 | Markdown | SIM | ATIVO
+
+
+![gatinhos](racas-de-gato-mais-populares.avif)
